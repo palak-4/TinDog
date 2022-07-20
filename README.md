@@ -1,2 +1,1 @@
-# TinDog
-Advanced CSS and Bootstrap Practice Site
+TinDog Starting Files
